@@ -1,1 +1,2 @@
 # Project
+The bank has many plans and services for the customers to enroll in and get different benefits. But the service requests from one customer may vary from other customers. The bank customer churn prediction is to predict whether the customers leave the bank or not. It may depend on various reasons, but this prediction would help the bank to reduce the marketing costs on unnecessary things and concentrate on those topics that helps them in keeping as many customers as possible.
